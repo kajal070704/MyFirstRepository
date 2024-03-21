@@ -62,7 +62,7 @@ public class QUEUE {
 	    int item;   
 	    if (front == -1 || front > rear)  
 	    {  
-	    	System.out.println("UNDERFLOW");  
+	    	System.out.println("Uunderflowww");  
 	        return;  
 	              
 	    }  
